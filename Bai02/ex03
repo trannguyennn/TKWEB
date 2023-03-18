@@ -1,0 +1,26 @@
+body{
+  font: 100%;
+  background-color: antiquewhite;
+  padding: 2px;
+  margin: -1px;
+}
+
+
+/* Header **/
+header{
+    padding-top: 10px;
+    min-height: 100px;
+   background-color: rgb(76, 99, 122);
+   color: maroon;
+    border-bottom-style: inset;
+    border-color: brown;
+}
+ 
+
+footer{
+    padding: 20px 70px 20px 10px;
+    margin-top: 90px; 
+   background-color: rgb(76, 99, 122);
+   text-align: center;
+   color: rgb(238, 232, 244);
+}
