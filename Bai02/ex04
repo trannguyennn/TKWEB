@@ -1,0 +1,68 @@
+body{
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
+  padding:0;
+  margin:0;
+  background-color:#f4f4f4;
+}
+
+
+/* Header **/
+header{
+  background:#35424a;
+  color:#ffffff;
+  padding-top:30px;
+  min-height:70px;
+  border-bottom:#e8491d 3px solid;
+}
+
+header a{
+  color:greenyellow ;
+  text-decoration:underline;
+  text-transform:uppercase ;
+  font-size:
+}
+
+header li{
+  float:right;
+  display: inline-block;
+  padding: 10px;
+}
+
+header #branding{
+  float:left;
+}
+
+header #branding h1{
+  margin: 15px;
+}
+
+header nav{
+  float:right;
+  margin-top:18px;
+}
+
+header .highlight, header .current a{
+  color:green;
+  font-weight: 200px;
+}
+
+header a:hover{
+  color:green;
+  font-weight:200px;
+}
+
+
+footer{
+  padding:20px;
+  margin-top:20px;
+  color:#ffffff;
+  background-color:#e8491d;
+  text-align: center;
+}
+
+
+
+  #newsletter form input[type="email"], .quote input, .quote textarea{
+    width: 200px;
+    margin-bottom:50px;
+  }
