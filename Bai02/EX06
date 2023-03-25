@@ -1,0 +1,95 @@
+body{
+    font: 15px/1.5 Arial, Helvetica,sans-serif;
+    padding:0;
+    margin:0;
+    background-color:#f4f4f4;
+  }
+
+/* Global */
+.container{
+   
+   margin-right: 300px;
+   padding-left: 100px;
+
+}
+
+ul{
+margin-top: -8px;
+}
+
+/* Header **/
+header{
+  background:#35424a;
+  color:#ffffff;
+  padding-top:30px;
+  min-height:70px;
+  border-bottom:#e8491d 3px solid;
+}
+
+header a{
+  color:greenyellow ;
+  text-decoration:inherit;
+  text-transform:uppercase ;
+  font-size:auto;
+}
+
+header li{
+  float:right;
+  display: inline-block;
+  padding: 15px;
+}
+
+header #branding{
+  float:left;
+}
+
+header #branding h1{
+  margin: 5px;
+  font-size: 35px;
+}
+
+header nav{
+  float:right;
+  margin-top:18px;
+}
+
+header .highlight, header .current a{
+  color:green;
+  font-weight: 20px;
+  
+}
+
+header a:hover{
+  color:rgb(12, 12, 12);
+  font-weight:20px;
+}
+
+/* Showcase */
+#showcase{
+  
+  background-image: url("http://trannguyennn.github.io/Ma nguon cac bai tap/Ma nguon cac bai tap/EX06/img/showcase.jpg");
+  color:#ffffff;
+  padding-top:100px;
+  min-height:300px;
+  
+}
+
+#showcase h1{
+  text-align: center;
+  font-size: 40px;
+
+}
+
+#showcase p{
+  text-align: center;
+  font-size: x-large;
+}
+
+
+footer{
+    padding:20px;
+    margin-top:20px;
+    color:#ffffff;
+    background-color:#e8491d;
+    text-align: center;
+  }
