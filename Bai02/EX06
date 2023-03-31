@@ -54,13 +54,13 @@ header nav{
 
 header .highlight, header .current a{
   color:green;
-  font-weight: 20px;
+  font-weight:bolder;
   
 }
 
 header a:hover{
   color:rgb(12, 12, 12);
-  font-weight:20px;
+  font-weight:bolder;
 }
 
 /* Showcase */
