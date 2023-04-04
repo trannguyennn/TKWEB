@@ -82,7 +82,7 @@ header{
   /* Showcase */
   #showcase{
     
-    background-image: url("http://trannguyennn.github.io/Ma nguon cac bai tap/Ma nguon cac bai tap/EX06/img/showcase.jpg");
+    background: url('../img/showcase.jpg') no-repeat 0 -400px;
     color:#ffffff;
     padding-top:100px;
     min-height:300px;
